@@ -1,0 +1,44 @@
+Mkdir SI_2024_lab1_223070
+Cd SI_2024_lab1_223070
+git init - inicijaliziram prazen repozitorium
+Git remote add origin https://github.com/GogoPro27/SI_2024_lab1_223070.git  (go povrzuvam so remote repot)
+Nano README.txt
+Git add * (dodavam vo staging area)
+Git commit -m "Initial commit" (inicijalen commit)
+(Gi simnav fajlovite i gi staviv vo ist direktorium)
+Git add * (dodavam vo staging area)
+Git commit -m "Add starter code"
+git push -u origin main
+Git branch bug1 (nova granka)
+Git branch bug2 (nova granka)
+Git switch bug1 (se premestuvam vo drug granka)
+Git add *(dodavam vo staging area)
+Git commit -m "Fix wrong condition in filterOddLengthStrings"
+Git checkout bug2 (se premestuvam vo drug granka)
+git add SILab1_2.java 
+git commit -m "Fix wrong condition in makeBigStringFrom"
+Git switch bug1
+git add *(dodavam vo staging area)
+git commit -m "Call method filterOddLengthStrings in main class"
+git add *(dodavam vo staging area)
+git commit -m "Call method makeBigStringFrom in main class"
+git push -u origin bug1 (sinhroniziram gramma so remote origin)
+git push -u origin bug2
+git switch main
+git merge bug1 (fast forward merge)
+git push --all origin
+Git switch bug2
+Git rebase main
+#Nastana konflikt poradí toa sto vo master(main) na ista linija imase povikano druga metoda.
+#Go popraviv taka sto gi staviv data metodi edno po drugo
+#Strategic - recursive merge
+Git add *(dodavam vo staging area)
+git rebase --continue (staviv poraka vo vscode "Fix conflict")
+Git switch main
+Git merge bug2 (fast forward merge pored to a sto vekje imav rebase napraveno)
+git push --force --all origin
+Touch logs.txt
+Git log (za da gi prikaze commitsot od pocetokot i da gi kopi pejstnam vo logs.txt)
+Git add *
+Git commit -m "Final commit"
+Git push --all origin

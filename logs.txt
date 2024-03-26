@@ -1,0 +1,104 @@
+commit 7a3f32ec30174ae1317ab4d83fb10d9eb72701ec (HEAD -> main, origin/main, origin/bug2, bug2)
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:12:54 2024 +0100
+
+    Fix conflict
+
+commit 6f23415416a20350d7dd438f5c5481b1cdfe60a5
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:08:16 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 0b590f7c3fd3a190a64b3e86af40fd1f7ef7c25e (origin/master, origin/bug1, bug1)
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:11:03 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit a61fd6a29f1114eafa1a75e1d078b4783d315af0
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+:...skipping...
+commit 7a3f32ec30174ae1317ab4d83fb10d9eb72701ec (HEAD -> main, origin/main, origin/bug2, bug2)
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:12:54 2024 +0100
+
+    Fix conflict
+
+commit 6f23415416a20350d7dd438f5c5481b1cdfe60a5
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:08:16 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 0b590f7c3fd3a190a64b3e86af40fd1f7ef7c25e (origin/master, origin/bug1, bug1)
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:11:03 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit a61fd6a29f1114eafa1a75e1d078b4783d315af0
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:06:19 2024 +0100
+
+:...skipping...
+commit 7a3f32ec30174ae1317ab4d83fb10d9eb72701ec (HEAD -> main, origin/main, origin/bug2, bug2)
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:12:54 2024 +0100
+
+    Fix conflict
+
+commit 6f23415416a20350d7dd438f5c5481b1cdfe60a5
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:08:16 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 0b590f7c3fd3a190a64b3e86af40fd1f7ef7c25e (origin/master, origin/bug1, bug1)
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:11:03 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit a61fd6a29f1114eafa1a75e1d078b4783d315af0
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:06:19 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+:...skipping...
+commit 7a3f32ec30174ae1317ab4d83fb10d9eb72701ec (HEAD -> main, origin/main, origin/bug2, bug2)
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:12:54 2024 +0100
+
+    Fix conflict
+
+commit 6f23415416a20350d7dd438f5c5481b1cdfe60a5
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:08:16 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 0b590f7c3fd3a190a64b3e86af40fd1f7ef7c25e (origin/master, origin/bug1, bug1)
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:11:03 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit a61fd6a29f1114eafa1a75e1d078b4783d315af0
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Tue Mar 26 09:06:19 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b1c7af4d5d19527261458ac525fa573ec454f4f6
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Mon Mar 25 23:23:13 2024 +0100
+
+    Add starter code
+
+commit 801e5f76d88f986841daabdd753191c07fc95860
+Author: Gorazd Filipovski <fi.gorazd@gmail.com>
+Date:   Mon Mar 25 23:19:00 2024 +0100
+
+    Initial commit
